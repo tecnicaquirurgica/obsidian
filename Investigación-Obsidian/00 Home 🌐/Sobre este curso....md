@@ -1,0 +1,10 @@
+---
+dg-publish: true
+---
+- ### Bienvenidos al apasionante mundo de la técnica quirúrgica...
+- Un componente esencial en la formación de todo estudiante de medicina que aspira a convertirse en un profesional competente y hábil en el ámbito quirúrgico. Este curso universitario ha sido diseñado para brindar a los futuros médicos una comprensión profunda y práctica de las habilidades quirúrgicas fundamentales necesarias para llevar a cabo intervenciones con precisión y seguridad.
+- La técnica quirúrgica no es simplemente el arte de realizar incisiones y suturas, sino una disciplina compleja que abarca desde el conocimiento anatómico detallado hasta la destreza manual y la toma de decisiones en tiempo real. A lo largo de este curso, exploraremos los principios fundamentales de la técnica quirúrgica, desde la preparación preoperatoria hasta la atención postoperatoria, incorporando las últimas tecnologías y avances científicos.
+- A través de clases teóricas, sesiones prácticas en simuladores avanzados y experiencias clínicas en entornos hospitalarios, los estudiantes adquirirán las habilidades prácticas y el conocimiento teórico necesarios para enfrentarse a los desafíos de la sala de operaciones. Además, se fomentará el desarrollo de habilidades de trabajo en equipo, comunicación efectiva y toma de decisiones bajo presión, aspectos cruciales para el éxito en el campo de la cirugía.
+- Este curso no solo busca formar cirujanos competentes, sino también promover una comprensión profunda de la ética quirúrgica, la importancia de la colaboración interdisciplinaria y el compromiso con la mejora continua. Al completar este curso, los estudiantes estarán preparados para enfrentar una amplia variedad de procedimientos quirúrgicos con confianza y habilidad, sentando así las bases para una exitosa carrera en el fascinante mundo de la medicina quirúrgica. 
+- ¡Bienvenidos a la emocionante travesía de la técnica quirúrgica en la medicina universitaria! ✨.
+![gif|300x200](https://y.yarn.co/0b2b8e81-98e6-4eed-a996-d7b21b8df3f5_text.gif)
